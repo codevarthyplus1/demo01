@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+btree_sql
+*.o
+
+# Data files
+data/*.tbl
+
+# Test files
+*.sql
