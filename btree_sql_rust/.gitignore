@@ -1,0 +1,19 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+
+# Cargo lock file (for applications)
+# Cargo.lock
+
+# Data files
+data/*.tbl
+
+# Test SQL files
+*.sql
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
